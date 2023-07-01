@@ -1,0 +1,21 @@
+-- import: fastn
+
+-- fastn.package: akshat01010.github.io/fastn
+favicon: /-/akshat01010.github.io/fastn/favicon.ico
+
+
+-- fastn.dependency: fastn-community.github.io/doc-site as ds
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
+
+-- fastn.auto-import: ds
+-- fastn.auto-import: package
+-- fastn.auto-import: akshat01010.github.io/fastn/FASTN/my-ds
+-- fastn.auto-import: akshat01010.github.io/fastn/assets
+
+
+-- fastn.sitemap:
+
+# Home Page: /
+
+- Page with Right Sidebar: /sidebar/
